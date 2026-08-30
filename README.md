@@ -43,6 +43,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Mangools](https://mangools.com/) - Juicy SEO tools you will love.
 
+- [Website SEO Audit Tool](https://dailytoolkit.xyz/tools/website-seo-audit-tool) - Free, no-signup on-page SEO checker for titles, meta descriptions, headings, canonical URLs, and more.
+- 
 - [SERanking](https://seranking.com/) - All-in-one agency-tailored SEO platform.
 
 - [Moz Pro](https://moz.com/) - SEO software and data to help you increase traffic, rankings, and visibility in search results.
@@ -191,7 +193,9 @@ Ensure your website's foundation is solid for search engines and user experience
 - [Google Search Console](https://search.google.com/search-console/about) - Free tool from Google to monitor and maintain site's presence in Google Search results.
 
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - monitor site presence in Bing Search results. It has additional features like keyword research and recommendations for technical SEO.
-
+- 
+- [Website SEO Audit Tool](https://dailytoolkit.xyz/tools/website-seo-audit-tool) - Free, no-signup on-page SEO checker for titles, meta descriptions, headings, canonical URLs, and more.
+- 
 - [Yandex Webmaster](https://webmaster.yandex.com/) - monitor a site’s presence in Yandex Search results. It includes features such as indexing status, crawl statistics, search query analytics, and recommendations for improving technical SEO.
  
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/#spider-features) - SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues.
